@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Rex](https://www.google.com/imgres?imgurl=http%3A%2F%2Fassets.stickpng.com%2Fimages%2F5887bb7cbc2fc2ef3a186029.png&imgrefurl=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Fanimals%2Fdinosaurs%2Ftrex&tbnid=3Lb6sevRbv6iKM&vet=12ahUKEwj86r-2-KPuAhVjds0KHdolAwAQMygAegUIARDJAQ..i&docid=esmRx02N2xV8lM&w=500&h=386&q=trex%20png&client=firefox-b-1-d&ved=2ahUKEwj86r-2-KPuAhVjds0KHdolAwAQMygAegUIARDJAQ)
